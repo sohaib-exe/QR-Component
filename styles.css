@@ -19,6 +19,11 @@ main {
     margin: auto;
     border-radius: 12px;
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.15);
+    transition: 500ms linear;
+}
+
+.white:hover {
+    transform: scale(1.02);
 }
 
 img {
@@ -40,4 +45,14 @@ img {
     font-weight: 400;
     padding: 0 1.5rem 1.5rem 1.5rem;
     color: hsl(220, 15%, 55%);
+}
+
+a {
+    transition: 500ms linear;
+}
+
+a:hover {
+    color: grey;
+    cursor: pointer;
+    font-size: 120%;
 }
