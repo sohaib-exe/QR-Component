@@ -23,8 +23,6 @@ I immediately hoped on it and started my first challenge(this one).
 ![Screenshot of what my solution looks like in the end.](./images/Screenshot.PNG)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
