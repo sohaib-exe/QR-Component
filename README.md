@@ -23,7 +23,7 @@ I immediately hoped on it and started my first challenge(this one).
 ![Screenshot of what my solution looks like in the end.](./images/Screenshot.PNG)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://sohaib-exe.github.io/QR-Component/)
 
 ### Built with
 
