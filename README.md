@@ -35,4 +35,4 @@ I immediately hoped on it and started my first challenge(this one).
 
 ## Acknowledgments
 
-Credit: My only Developer Friend (Arslan)[https://github.com/mr-arsal] helped me out a little bit with Div Centering 😄.
+Credit: My only Developer Friend [Arslan](https://github.com/mr-arsal) helped me out a little bit with Div Centering 😄.
